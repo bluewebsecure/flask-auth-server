@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Google API credentials
+credentials.json
+service_account.json
+
+# Other sensitive data
+*.json
+*.pem
+*.key
+
+# Logs
+*.log
